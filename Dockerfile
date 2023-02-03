@@ -1,0 +1,2 @@
+FROM gcr.io/knative-nightly/knative.dev/serving/cmd/autoscaler@sha256:578e6863b7607e5a2be8a56d7eb5d98c99bf4d37517a03b5cd1937d1db2a3f0f
+MAINTAINER Q
